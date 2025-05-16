@@ -12,6 +12,7 @@ So -- I'm doing the objectively *correct* thing and designing my own!
 
 (This is one of the ***worst*** concept designs I've ever made in my life - please forgive :c)
 These are the part links me and (mainly my friend) ended up with:
+
 Type C Female (Kicad) - https://github.com/ai03-2725/Type-C.pretty/blob/master/HRO-TYPE-C-31-M-12.kicad_mod
 
 Type C Female (Part) - https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948

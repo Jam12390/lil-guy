@@ -1,7 +1,9 @@
 This is the journal surrounding my lil guy project for hackclub highway!
-Lil Guy is a project based on the Dasai Mochi 3:
-Website: https://dasai.com.au/pages/mochi3
+
+Lil Guy is a project based on the Dasai Mochi 3: https://dasai.com.au/pages/mochi3
+
 I want to do this project since i want lil guy but think he's overpriced (£42 - really?)
+
 So -- I'm doing the objectively *correct* thing and designing my own!
 
 16/5/25 - 2hrs:
